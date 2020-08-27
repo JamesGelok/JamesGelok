@@ -52,6 +52,10 @@
 <br />
 <br />
 
+## Stats
+
+![](https://komarev.com/ghpvc/?username=JamesGelok&color=brightgreen)
+
 <img align="left" alt="JamesGelok's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JamesGelok&show_icons=true&hide_border=true" />
 
 [website]: http://james.gl/
