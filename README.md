@@ -1,7 +1,7 @@
 ## Hi there, I'm James 👋
 
 # I'm a Husband, Software Developer, and&nbsp;Inventor&nbsp;of&nbsp;Stuff&nbsp;&&nbsp;Things! 
-- 🔭&nbsp;&nbsp;**I’m currently working on** [making the user experience awesome 🤩&nbsp;&nbsp;at Gleason Technologies, Inc](gleason)
+- 🔭&nbsp;&nbsp;**I’m currently working on** [making the user experience awesome 🤩&nbsp;&nbsp;at Gleason Technologies, Inc](https://www.risklimiter.com/)
 - 🌱&nbsp;&nbsp;**I’m currently learning** how to become a better developer, & writer
 - 💡&nbsp;&nbsp;**I'm currently creating** the perfect iced coffee 🧊☕️
 - 🥅&nbsp;&nbsp;**2020 Goals:** Publish more articles and media
@@ -85,6 +85,5 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 [youtube]: https://www.youtube.com/channel/UCMHlwGCimRrckEiuPOplc1A
 [instagram]: https://www.instagram.com/james.gelok/
 [linkedin]: https://www.linkedin.com/in/JamesGelok/
-[gleason]: https://www.risklimiter.com/
-
+[gleason]: https://www.risklimiter.com/=
 [javascript]: https://github.com/JamesGelok?tab=repositories&q=&type=source&language=javascript
