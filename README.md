@@ -4,7 +4,7 @@
 - 🔭&nbsp;&nbsp;**I’m currently working on** [making the user experience awesome 🤩&nbsp;&nbsp;at Gleason Technologies, Inc](https://www.risklimiter.com/)
 - 🌱&nbsp;&nbsp;**I’m currently learning** how to become a better developer, & writer
 - 💡&nbsp;&nbsp;**I'm currently creating** the perfect iced coffee 🧊☕️
-- 🥅&nbsp;&nbsp;**2021 Goals:** Improve Health
+- 🥅&nbsp;&nbsp;**2022 Goals:** Improve Health
 - ⚡&nbsp;&nbsp;**Fun fact:** I love to run and play piano
 
 ## Connect with me:
