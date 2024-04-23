@@ -1,7 +1,7 @@
 ## Hi there, I'm James 👋
 
 # I'm a Husband, Software Developer, and&nbsp;Inventor&nbsp;of&nbsp;Stuff&nbsp;&&nbsp;Things! 
-- 🔭&nbsp;&nbsp;**I’m currently working on** [making the user experience awesome 🤩&nbsp;&nbsp;at Gleason Technologies, Inc](https://www.risklimiter.com/)
+- 🔭&nbsp;&nbsp;**I’m currently working on** apps
 - 🌱&nbsp;&nbsp;**I’m currently learning** how to become a better developer, & writer
 <!-- - 💡&nbsp;&nbsp;**I'm currently creating** the perfect iced coffee 🧊☕️ -->
 <!-- - 🥅&nbsp;&nbsp;**2023 Goals:** Improve Health -->
