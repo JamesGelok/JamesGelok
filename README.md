@@ -1,6 +1,6 @@
 ## Hi there, I'm James 👋
 
-# I'm a Husband, Software Developer, and&nbsp;Inventor&nbsp;of&nbsp;Stuff&nbsp;&&nbsp;Things! 
+# I'm a Software Developer! 
 - 🔭&nbsp;&nbsp;**I’m currently working on** apps
 - 🌱&nbsp;&nbsp;**I’m currently learning** how to become a better developer, & writer
 <!-- - 💡&nbsp;&nbsp;**I'm currently creating** the perfect iced coffee 🧊☕️ -->
