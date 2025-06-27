@@ -3,9 +3,6 @@
 # I'm a Software Developer! 
 - 🔭&nbsp;&nbsp;**I’m currently working on** apps
 - 🌱&nbsp;&nbsp;**I’m currently learning** how to become a better developer, & writer
-<!-- - 💡&nbsp;&nbsp;**I'm currently creating** the perfect iced coffee 🧊☕️ -->
-<!-- - 🥅&nbsp;&nbsp;**2023 Goals:** Improve Health -->
-- ⚡&nbsp;&nbsp;**Fun fact:** I love to run and play piano
 
 ## Connect with me:
 
