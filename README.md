@@ -75,8 +75,6 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 ![](https://komarev.com/ghpvc/?username=JamesGelok&color=brightgreen)
 
-<img align="left" alt="JamesGelok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JamesGelok&show_icons=true&hide_border=true" />
-
 [website]: http://james.gl/
 [twitter]: https://twitter.com/JamesGelok
 [youtube]: https://www.youtube.com/channel/UCMHlwGCimRrckEiuPOplc1A
