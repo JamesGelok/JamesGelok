@@ -71,6 +71,8 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 </div>
 
+<br/>
+
 ## Stats
 
 ![](https://komarev.com/ghpvc/?username=JamesGelok&color=brightgreen)
